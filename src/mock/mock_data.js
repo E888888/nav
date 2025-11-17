@@ -2,8 +2,8 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "我的常用",
-      "icon": "💥",
+      "name": "常用推荐",
+      "icon": "🔥",
       "order": 0,
       "sites": [
         {
@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "East导航🏖️",
-  "_fileSha": "fff93667ebe1ce575c5494cb621c29647422d4e7",
-  "search": "google"
+  "title": "East导航🏖️"
 }

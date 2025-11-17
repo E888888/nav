@@ -482,7 +482,7 @@ export const mockData = {
           "id": "site-1763408947472",
           "name": "Microsoft Store",
           "url": "https://apps.microsoft.com/home?hl=zh-CN&gl=CN",
-          "description": "微软官方商城",
+          "description": "微软应用商城",
           "icon": "https://www.faviconextractor.com/favicon/apps.microsoft.com"
         },
         {

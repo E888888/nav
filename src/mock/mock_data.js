@@ -368,7 +368,7 @@ export const mockData = {
           "id": "site-1763406869944",
           "name": "无广告TV",
           "url": "https://www.5ggtv.com",
-          "description": "全网电影、电视剧、动漫、短剧在线随心看",
+          "description": "电影、电视剧、动漫在线随心看",
           "icon": "https://www.faviconextractor.com/favicon/www.5ggtv.com"
         }
       ]

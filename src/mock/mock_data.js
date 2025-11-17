@@ -2,16 +2,16 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "常用推荐",
-      "icon": "🔥",
+      "name": "我的常用",
+      "icon": "💥",
       "order": 0,
       "sites": [
         {
           "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
+          "name": "收起来",
+          "url": "https://pc.shouqilai.cn/",
           "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/pc.shouqilai.cn"
         },
         {
           "id": "linux-do",

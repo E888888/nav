@@ -32,7 +32,7 @@ export const mockData = {
           "name": "GitHub",
           "url": "https://github.com",
           "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "icon": "https://f.start.me/github.com"
         },
         {
           "id": "site-1763390591003",

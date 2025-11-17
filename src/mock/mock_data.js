@@ -23,6 +23,13 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1763342297944",
+      "icon": "🏖️",
+      "name": "缤纷生活",
+      "order": 1,
+      "sites": []
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
@@ -48,7 +55,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 3,
       "sites": [
         {
           "id": "bilibili",
@@ -65,16 +72,7 @@ export const mockData = {
           "icon": "/sitelogo/www.youtube.com.ico"
         }
       ]
-    },
-    {
-      "id": "category-1763342297944",
-      "icon": "🏖️",
-      "name": "缤纷生活",
-      "order": 1,
-      "sites": []
     }
   ],
-  "title": "East导航",
-  "_fileSha": "25693030fc9c8edfd29b38bdc62b39ecbeca4a05",
-  "search": "google"
+  "title": "East导航🏖️"
 }

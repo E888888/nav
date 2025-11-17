@@ -418,14 +418,14 @@ export const mockData = {
           "id": "site-1763408028487",
           "name": "ICO图标转换",
           "url": "https://ico.pljzy.top",
-          "description": "快速将图片转换成多尺寸ICO图标",
+          "description": "将图片转换成ICO图标",
           "icon": "https://www.faviconextractor.com/favicon/ico.pljzy.top"
         },
         {
           "id": "site-1763408171222",
           "name": "APP Icon",
           "url": "https://icon.3earth.space",
-          "description": "从 App Store 下载高清应用图标",
+          "description": "从 App Store 下载应用图标",
           "icon": "https://www.apple.com/v/app-store/c/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png"
         },
         {

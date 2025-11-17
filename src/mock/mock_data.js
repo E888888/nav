@@ -104,21 +104,21 @@ export const mockData = {
           "name": "彭博社",
           "url": "https://www.bloomberg.com",
           "description": "提供实时金融数据、新闻服务",
-          "icon": "https://www.faviconextractor.com/favicon/www.bloomberg.com"
+          "icon": "https://f.start.me/www.bloomberg.com"
         },
         {
           "id": "site-1763393476070",
           "name": "财政部",
           "url": "https://www.mof.gov.cn/index.htm",
           "description": "中华人民共和国财政部",
-          "icon": "https://www.faviconextractor.com/favicon/www.mof.gov.cn"
+          "icon": "https://f.start.me/www.mof.gov.cn"
         },
         {
           "id": "site-1763393555283",
           "name": "税务总局",
           "url": "https://www.chinatax.gov.cn",
           "description": "国家税务总局",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/a6/8d/01a68d79-6e34-fdb3-5659-2220add521c8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/400x400ia-75.webp"
+          "icon": "https://f.start.me/www.chinatax.gov.cn"
         }
       ]
     },

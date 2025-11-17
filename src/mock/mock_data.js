@@ -65,8 +65,14 @@ export const mockData = {
           "icon": "/sitelogo/www.youtube.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1763342297944",
+      "icon": "🏖️",
+      "name": "缤纷生活",
+      "order": 1,
+      "sites": []
     }
   ],
-  "title": "East导航",
-  "_fileSha": "19e7c59bdcaea6ff70448d30e3b309eb6a19f980"
+  "title": "East导航🏖️"
 }

@@ -73,9 +73,16 @@ export const mockData = {
         {
           "id": "site-1752649007053",
           "name": "收起来",
-          "url": "https://pc.shouqilai.cn/",
-          "description": "智能囤货管理，高效整理物品。",
-          "icon": "https://www.faviconextractor.com/favicon/pc.shouqilai.cn"
+          "url": "https://pc.shouqilai.cn",
+          "description": "智能囤货管理，高效整理物品",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/17/99/011799a0-fb48-cfd2-5467-dd889874e4d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/400x400ia-75.webp"
+        },
+        {
+          "id": "site-1763392585914",
+          "name": "下厨房",
+          "url": "https://www.xiachufang.com",
+          "description": "唯有美食与爱不可辜负",
+          "icon": "https://www.faviconextractor.com/favicon/www.xiachufang.com"
         }
       ]
     },

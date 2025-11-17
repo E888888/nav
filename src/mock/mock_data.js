@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752649007053",
-          "name": "收起来",
-          "url": "https://pc.shouqilai.cn/",
-          "description": "智能囤货管理，高效整理物品。",
-          "icon": "https://www.faviconextractor.com/favicon/pc.shouqilai.cn"
-        },
-        {
           "id": "github",
           "name": "GitHub",
           "url": "https://github.com",
@@ -27,7 +20,15 @@ export const mockData = {
       "icon": "🏖️",
       "name": "缤纷生活",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1752649007053",
+          "name": "收起来",
+          "url": "https://pc.shouqilai.cn/",
+          "description": "智能囤货管理，高效整理物品。",
+          "icon": "https://www.faviconextractor.com/favicon/pc.shouqilai.cn"
+        }
+      ]
     },
     {
       "id": "cloud",

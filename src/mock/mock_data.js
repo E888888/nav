@@ -235,7 +235,36 @@ export const mockData = {
       "icon": "📧",
       "name": "电子邮箱",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1763402172925",
+          "name": "163网易免费邮",
+          "url": "https://mail.163.com",
+          "description": "您的专业电子邮局",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/2c/58/872c58ea-1c7b-e1e0-ece4-938714b4039a/AppIconStore-0-1x_U007emarketing-0-8-0-85-220-0.png/400x400ia-75.webp"
+        },
+        {
+          "id": "site-1763402272723",
+          "name": "完美邮箱",
+          "url": "https://www.88.com",
+          "description": "让沟通更正式，更完美",
+          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxkqdHfLhKosKaDGosURhpdmAG1PT744MLDEcfK.cSouG94iUQV6oeqVQb5aYUvAt77KOicazYOkJpa0Eso5CN3w-&format=webp&h=307"
+        },
+        {
+          "id": "site-1763402423237",
+          "name": "Gmail",
+          "url": "https://mail.google.com",
+          "description": "免费、私密的电子邮箱",
+          "icon": "https://www.faviconextractor.com/favicon/mail.google.com"
+        },
+        {
+          "id": "site-1763402459390",
+          "name": "TempMail100",
+          "url": "https://tempmail100.com/zh-cn",
+          "description": "安全且匿名的临时邮箱",
+          "icon": "https://www.faviconextractor.com/favicon/tempmail100.com"
+        }
+      ]
     },
     {
       "id": "category-1763389261426",

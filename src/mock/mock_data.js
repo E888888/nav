@@ -31,7 +31,7 @@ export const mockData = {
     },
     {
       "id": "cloud",
-      "name": "云服务",
+      "name": "网络云盘",
       "icon": "☁️",
       "order": 2,
       "sites": [

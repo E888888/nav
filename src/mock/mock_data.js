@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "常用推荐",
+      "name": "热门推荐",
       "icon": "🔥",
       "order": 0,
       "sites": [
@@ -31,10 +31,31 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1763388995251",
+      "icon": "📰",
+      "name": "新闻资讯",
+      "order": 2,
+      "sites": []
+    },
+    {
+      "id": "category-1763389022924",
+      "icon": "🛍️",
+      "name": "网络购物",
+      "order": 3,
+      "sites": []
+    },
+    {
+      "id": "category-1763389046424",
+      "icon": "🏦",
+      "name": "银行门户",
+      "order": 4,
+      "sites": []
+    },
+    {
       "id": "cloud",
       "name": "网络云盘",
       "icon": "☁️",
-      "order": 2,
+      "order": 5,
       "sites": [
         {
           "id": "huawei-cloud",
@@ -53,28 +74,54 @@ export const mockData = {
       ]
     },
     {
-      "id": "entertainment",
-      "name": "娱乐休闲",
+      "id": "category-1763389128831",
+      "icon": "📧",
+      "name": "电子邮箱",
+      "order": 6,
+      "sites": []
+    },
+    {
+      "id": "category-1763389261426",
+      "icon": "🔍",
+      "name": "资源查找",
+      "order": 7,
+      "sites": []
+    },
+    {
+      "id": "category-1763389283549",
+      "icon": "🎬",
+      "name": "影视追剧",
+      "order": 8,
+      "sites": []
+    },
+    {
+      "id": "category-1763389310854",
+      "icon": "💻",
+      "name": "媒体工具",
+      "order": 9,
+      "sites": []
+    },
+    {
+      "id": "category-1763389456442",
+      "icon": "⚙️",
+      "name": "软件中心",
+      "order": 10,
+      "sites": []
+    },
+    {
+      "id": "category-1763389526920",
       "icon": "🎮",
-      "order": 3,
-      "sites": [
-        {
-          "id": "bilibili",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com",
-          "description": "弹幕视频网站",
-          "icon": "/sitelogo/www.bilibili.com.ico"
-        },
-        {
-          "id": "youtube",
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "/sitelogo/www.youtube.com.ico"
-        }
-      ]
+      "name": "游戏资源",
+      "order": 11,
+      "sites": []
+    },
+    {
+      "id": "category-1763389570340",
+      "icon": "🔗",
+      "name": "友情链接",
+      "order": 12,
+      "sites": []
     }
   ],
-  "title": "East导航",
-  "_fileSha": "afe96268ba4d3237b41a158fe52fc21ae4cd167e"
+  "title": "East导航🏖️"
 }

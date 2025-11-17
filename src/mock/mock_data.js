@@ -219,14 +219,14 @@ export const mockData = {
           "name": "蓝奏云",
           "url": "https://www.lanzou.com",
           "description": "天下武功，唯快不破",
-          "icon": "https://www.faviconextractor.com/favicon/www.lanzou.com"
+          "icon": "https://data-static.alapi.cn/uploadfile/20241214/S8Ozo3Cmex.png"
         },
         {
           "id": "site-1752644060499",
           "name": "蓝奏云·优享",
           "url": "https://www.ilanzou.com",
           "description": "天下武功，唯快不破",
-          "icon": "https://www.faviconextractor.com/favicon/www.ilanzou.com"
+          "icon": "https://pp.myapp.com/ma_icon/0/icon_54352613_1752583933/256"
         },
         {
           "id": "site-1763402732150",

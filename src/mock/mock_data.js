@@ -127,7 +127,36 @@ export const mockData = {
       "icon": "🛍️",
       "name": "网络购物",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1763401097898",
+          "name": "历史价格查询",
+          "url": "https://m.gwdang.com/trendIndex",
+          "description": "识破商家 “ 假 ” 促销！",
+          "icon": "https://img.qq241.com/uploads/images/thumb/2021/0113/1610521818344733.jpg"
+        },
+        {
+          "id": "site-1763401200414",
+          "name": "京东商城",
+          "url": "https://www.jd.com",
+          "description": "购物逛京东，又好又便宜",
+          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxvOM9zevmDJAwvXfm3VT.hfgtVT9oOJkOPqK6quBGoPDKl2gjD2GGa7IbURv6rjqVlBXiZHAQVCmb6cZ5xygbxw-&format=webp&h=307"
+        },
+        {
+          "id": "site-1763401275712",
+          "name": "淘宝",
+          "url": "https://www.taobao.com",
+          "description": "淘宝，淘你喜欢",
+          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBfhEOMubpMmuZoTXo.WeB7LeYzhMVDFZqjsosHpJ5m74X6lQXxmagiUq8FIwoCqAkBqgujQJubVEm.FTEM6HvvM-&format=source&h=307"
+        },
+        {
+          "id": "site-1763401403704",
+          "name": "唯品会",
+          "url": "https://www.vip.com",
+          "description": "品牌特卖，就是超值",
+          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxmcloNchNyZB2zwkjlGXyG3F0qIdnO._HBVD78_gXadW2m_Mk1oDWUBeQG06vqPV7b4arKSnbGTtGHOhhKVhqd4-&format=webp&h=307"
+        }
+      ]
     },
     {
       "id": "category-1763389046424",

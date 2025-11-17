@@ -292,7 +292,22 @@ export const mockData = {
       "icon": "🔍",
       "name": "资源查找",
       "order": 7,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1763402955867",
+          "name": "千帆搜索",
+          "url": "https://pan.qianfan.app",
+          "description": "聚合网盘搜索引擎",
+          "icon": "https://f.start.me/pan.qianfan.app"
+        },
+        {
+          "id": "site-1763403016823",
+          "name": "猫狸盘搜",
+          "url": "https://www.alipansou.com",
+          "description": "阿里云盘搜索神器",
+          "icon": "https://f.start.me/www.alipansou.com"
+        }
+      ]
     },
     {
       "id": "category-1763389283549",

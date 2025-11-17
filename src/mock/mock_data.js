@@ -378,7 +378,85 @@ export const mockData = {
       "icon": "💻",
       "name": "媒体工具",
       "order": 9,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1763407432599",
+          "name": "泡椒音乐",
+          "url": "https://pjmp3.com",
+          "description": "免费无损音乐在线播放下载",
+          "icon": "https://f.start.me/pjmp3.com"
+        },
+        {
+          "id": "site-1763407479856",
+          "name": "网易云音乐解析",
+          "url": "https://www.kanxizai.cn/163_music",
+          "description": "让音乐触手可及",
+          "icon": "https://www.faviconextractor.com/favicon/www.kanxizai.cn"
+        },
+        {
+          "id": "site-1763407729009",
+          "name": "短视频解析",
+          "url": "https://api.spapi.cn",
+          "description": "解析各平台短视频，去除水印",
+          "icon": "https://play-lh.googleusercontent.com/N6wi8OUr8wwBtqTFhehXn4l6_u6RUGowwsV9D_dM58yHrz-hSK8ZINmw0by099eWx4M=w480-h960-rw"
+        },
+        {
+          "id": "site-1763407800860",
+          "name": "kuku短视频解析",
+          "url": "https://dy.kukutool.com",
+          "description": "支持130多个平台解析去水印",
+          "icon": "https://www.faviconextractor.com/favicon/dy.kukutool.com"
+        },
+        {
+          "id": "site-1763407903626",
+          "name": "ICO51",
+          "url": "https://www.ico51.cn",
+          "description": "在线生成透明ICO图标",
+          "icon": "https://www.ico51.cn/images/logo.png"
+        },
+        {
+          "id": "site-1763408028487",
+          "name": "ICO图标转换",
+          "url": "https://ico.pljzy.top",
+          "description": "快速将图片转换成多尺寸ICO图标",
+          "icon": "https://www.faviconextractor.com/favicon/ico.pljzy.top"
+        },
+        {
+          "id": "site-1763408171222",
+          "name": "APP Icon",
+          "url": "https://icon.3earth.space",
+          "description": "从 App Store 下载高清应用图标",
+          "icon": "https://www.faviconextractor.com/favicon/icon.3earth.space"
+        },
+        {
+          "id": "site-1763408298806",
+          "name": "macOS 图标生成器",
+          "url": "https://yc-w-cn.github.io/macos-compliant-icon-generator",
+          "description": "兼容 macOS 的图标生成器",
+          "icon": "https://github.com/gantoreno/vscode-vercel/raw/HEAD/.github/vercel.png"
+        },
+        {
+          "id": "site-1763408352443",
+          "name": "Photokit",
+          "url": "https://photokit.com/?lang=zh",
+          "description": "免费在线图片编辑器",
+          "icon": "https://f.start.me/photokit.com"
+        },
+        {
+          "id": "site-1763408423913",
+          "name": "图片放大",
+          "url": "https://cappuccino.moe",
+          "description": "超棒的免费图片放大网站",
+          "icon": "https://f.start.me/cappuccino.moe"
+        },
+        {
+          "id": "site-1763408465229",
+          "name": "图片清晰吧",
+          "url": "https://www.tpqxb.com",
+          "description": "操作简单，效率高",
+          "icon": "https://f.start.me/www.tpqxb.com"
+        }
+      ]
     },
     {
       "id": "category-1763389456442",

@@ -10,7 +10,7 @@ export const mockData = {
           "id": "site-1752649007053",
           "name": "收起来",
           "url": "https://pc.shouqilai.cn/",
-          "description": "工具大全",
+          "description": "智能囤货管理，扫码识别，快速录入；高效整理物品。",
           "icon": "https://www.faviconextractor.com/favicon/pc.shouqilai.cn"
         },
         {
@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "East导航",
-  "_fileSha": "377a04340965f5e1b1705442adfd2d59996fec34",
-  "search": "google"
+  "title": "East导航🏖️"
 }

@@ -74,7 +74,6 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "East导航🏖️",
-  "_fileSha": "0ae2a2cee9c67b57000f4ef6894df668a44992b5",
-  "search": "google"
+  "title": "East导航",
+  "_fileSha": "0ae2a2cee9c67b57000f4ef6894df668a44992b5"
 }

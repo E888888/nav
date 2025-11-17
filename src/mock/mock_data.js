@@ -570,7 +570,36 @@ export const mockData = {
       "icon": "🔗",
       "name": "友情链接",
       "order": 12,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1763409916856",
+          "name": "East主页",
+          "url": "https://o88888.github.io",
+          "description": "",
+          "icon": "https://nav-128.pages.dev/logo.png"
+        },
+        {
+          "id": "site-1763409938901",
+          "name": "East软仓",
+          "url": "https://E888888.github.io/APP",
+          "description": "",
+          "icon": "https://nav-128.pages.dev/logo.png"
+        },
+        {
+          "id": "site-1763409958195",
+          "name": "East软件库",
+          "url": "https://www.ilanzou.com/s/wEEZ2L3i?code",
+          "description": "",
+          "icon": "https://nav-128.pages.dev/logo.png"
+        },
+        {
+          "id": "site-1763409975480",
+          "name": "East媒体库",
+          "url": "https://www.ilanzou.com/s/qh7Nupc5?code",
+          "description": "",
+          "icon": "https://nav-128.pages.dev/logo.png"
+        }
+      ]
     }
   ],
   "title": "East导航🏖️"

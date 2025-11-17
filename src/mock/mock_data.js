@@ -10,7 +10,7 @@ export const mockData = {
           "id": "site-1752649007053",
           "name": "收起来",
           "url": "https://pc.shouqilai.cn/",
-          "description": "智能囤货管理，扫码识别\n快速录入；高效整理物品。",
+          "description": "智能囤货管理，高效整理物品。",
           "icon": "https://www.faviconextractor.com/favicon/pc.shouqilai.cn"
         },
         {

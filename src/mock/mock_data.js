@@ -426,7 +426,7 @@ export const mockData = {
           "name": "APP Icon",
           "url": "https://icon.3earth.space",
           "description": "从 App Store 下载高清应用图标",
-          "icon": "https://www.faviconextractor.com/favicon/icon.3earth.space"
+          "icon": "https://www.apple.com/v/app-store/c/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png"
         },
         {
           "id": "site-1763408298806",

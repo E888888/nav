@@ -496,7 +496,7 @@ export const mockData = {
           "id": "site-1763408692341",
           "name": "East软仓",
           "url": "https://E888888.github.io/APP",
-          "description": "分享免费、小巧、实用的小众软件",
+          "description": "免费、小巧、实用的小众软件",
           "icon": "https://nav-128.pages.dev/logo.png"
         },
         {

@@ -82,7 +82,7 @@ export const mockData = {
           "name": "下厨房",
           "url": "https://www.xiachufang.com",
           "description": "唯有美食与爱不可辜负",
-          "icon": "https://f.start.me/www.xiachufang.com"
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/10/29/88102906-0f43-1efa-1da0-33a3396b231a/Placeholder.mill/400x400bb-75.webp"
         }
       ]
     },

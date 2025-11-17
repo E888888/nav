@@ -163,7 +163,50 @@ export const mockData = {
       "icon": "🏦",
       "name": "银行门户",
       "order": 4,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1763401557470",
+          "name": "中国银行",
+          "url": "https://www.boc.cn",
+          "description": "百年中行百年辉煌",
+          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxou3rrixbsZrpASSlykbMaMxwCtuwu1ARVxbmetlJmBQVn_FNRAn9fAPwN40oOaDyl5FDgVOlHVHSMVaY9qV5tw-&format=webp&h=307"
+        },
+        {
+          "id": "site-1763401610783",
+          "name": "工商银行",
+          "url": "https://www.icbc.com.cn",
+          "description": "你身边的银行，可信赖的银行",
+          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBQRXtSpI9Etv_pKtNjPP.qv34b72R4xHGJmoL1gn26FMVCuVmrmJ6tc4gsk0UXHZroP1RmojxDBQwrCC0NNmMGY-&format=webp&h=307"
+        },
+        {
+          "id": "site-1763401805096",
+          "name": "建设银行",
+          "url": "https://www.ccb.com",
+          "description": "建现在，见未来",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/1a/d3/c81ad3a7-75a0-f25f-7c3b-f04cb8e5c108/AppIcon-0-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/400x400ia-75.webp"
+        },
+        {
+          "id": "site-1763401871655",
+          "name": "农业银行",
+          "url": "https://www.abchina.com",
+          "description": "财智有道，通达无限",
+          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxjSephw_Ru5ecBOc9FYH2pPOJRuoU_A0FHT64yo5jatkDP34cFB.RYwNI9caMWO.s6nCkOBfWc2Z3p5u9YLyroY-&format=webp&h=307"
+        },
+        {
+          "id": "site-1763401925727",
+          "name": "邮政银行",
+          "url": "https://www.psbc.com",
+          "description": "邮银财富，伴您成就每一步",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/26/91/90269117-3b66-12f1-f14e-25607ad5ee27/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/400x400ia-75.webp"
+        },
+        {
+          "id": "site-1763401998301",
+          "name": "广发银行",
+          "url": "https://www.cgbchina.com.cn",
+          "description": "以心相交，成其久远",
+          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxp48I8jMUHwUU5joAJgsIFdgLWNwK6jTShZ3Hz_sa2IZbIX6EWrvGAK2nLjtC3GzzXh8oTTWiCHU4EU9BuqYLAs-&format=webp&h=307"
+        }
+      ]
     },
     {
       "id": "cloud",

@@ -375,7 +375,7 @@ export const mockData = {
     },
     {
       "id": "category-1763389310854",
-      "icon": "💻",
+      "icon": "📺",
       "name": "媒体工具",
       "order": 9,
       "sites": [
@@ -460,7 +460,7 @@ export const mockData = {
     },
     {
       "id": "category-1763389456442",
-      "icon": "⚙️",
+      "icon": "💻",
       "name": "软件中心",
       "order": 10,
       "sites": [

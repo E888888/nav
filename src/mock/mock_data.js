@@ -140,21 +140,21 @@ export const mockData = {
           "name": "京东商城",
           "url": "https://www.jd.com",
           "description": "购物逛京东，又好又便宜",
-          "icon": "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2021%2F03%2F31%2F604ee930c022c.png&w=192&h=192&q=100"
+          "icon": "https://play-lh.googleusercontent.com/LWaIZ0sOjW3gUC0yNXIrPGZe9jxNDDpqv9TI-IguAcHvtX30bCTlcNhDaXpu1s5ZBiQ=w480-h960-rw"
         },
         {
           "id": "site-1763401275712",
           "name": "淘宝",
           "url": "https://www.taobao.com",
           "description": "淘宝，淘你喜欢",
-          "icon": "https://f.start.me/www.taobao.com"
+          "icon": "https://play-lh.googleusercontent.com/6F3ONMR_UowQyqKud-bqqz5iWHGtleHEWTPZEoUiWPJj02R9hPL-agPCt_C3KYQLYi8=w480-h960-rw"
         },
         {
           "id": "site-1763401403704",
           "name": "唯品会",
           "url": "https://www.vip.com",
           "description": "品牌特卖，就是超值",
-          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxmcloNchNyZB2zwkjlGXyG3F0qIdnO._HBVD78_gXadW2m_Mk1oDWUBeQG06vqPV7b4arKSnbGTtGHOhhKVhqd4-&format=webp&h=307"
+          "icon": "https://cdn-1.webcatalog.io/catalog/vip-com/vip-com-icon-filled-256.webp?v=1744802438256"
         }
       ]
     },

@@ -513,7 +513,57 @@ export const mockData = {
       "icon": "🎮",
       "name": "游戏资源",
       "order": 11,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1763409215136",
+          "name": "Steam",
+          "url": "https://store.steampowered.com",
+          "description": "领先的数字游戏发行平台",
+          "icon": "https://f.start.me/store.steampowered.com"
+        },
+        {
+          "id": "site-1763409264754",
+          "name": "Epic",
+          "url": "https://store.epicgames.com/zh-CN",
+          "description": "E宝：喜加一",
+          "icon": "https://f.start.me/store.epicgames.com"
+        },
+        {
+          "id": "site-1763409326417",
+          "name": "WeGame",
+          "url": "https://www.wegame.com.cn/home",
+          "description": "国内游戏平台首运营",
+          "icon": "https://f.start.me/www.wegame.com.cn"
+        },
+        {
+          "id": "site-1763409362683",
+          "name": "风灵月影",
+          "url": "https://flingtrainer.com",
+          "description": "免费游戏修改器合集",
+          "icon": "https://f.start.me/flingtrainer.com"
+        },
+        {
+          "id": "site-1763409411266",
+          "name": "SteamDB",
+          "url": "https://steamdb.info",
+          "description": "查询游戏历史最低价格",
+          "icon": "https://f.start.me/steamdb.info"
+        },
+        {
+          "id": "site-1763409450008",
+          "name": "SteamGridDB",
+          "url": "https://www.steamgriddb.com",
+          "description": "提供游戏媒体资源",
+          "icon": "https://f.start.me/www.steamgriddb.com"
+        },
+        {
+          "id": "site-1763409526862",
+          "name": "3DM",
+          "url": "https://www.3dmgame.com",
+          "description": "游戏社区",
+          "icon": "https://img.3dmgame.com/uploads/allimg/150305/154_150305195703_1.jpg"
+        }
+      ]
     },
     {
       "id": "category-1763389570340",

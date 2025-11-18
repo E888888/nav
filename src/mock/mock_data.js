@@ -60,7 +60,7 @@ export const mockData = {
           "name": "天启接码",
           "url": "https://www.tqsms.xyz",
           "description": "专业号码接收服务",
-          "icon": "https://www.faviconextractor.com/favicon/www.tqsms.xyz"
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/f0/ea/a6f0eadd-6ad9-4634-332f-41a1f6dda4d9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/400x400ia-75.webp"
         }
       ]
     },
@@ -602,7 +602,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "East导航",
-  "_fileSha": "d8f4f37f4814ae576e6e69783972f4b77a7b117d",
-  "search": "google"
+  "title": "East导航"
 }

@@ -161,7 +161,7 @@ export const mockData = {
           "id": "site-1763401557470",
           "name": "中国银行",
           "url": "https://www.boc.cn",
-          "description": "百年中行百年辉煌",
+          "description": "阅人生，爱相随",
           "icon": "https://play-lh.googleusercontent.com/QHh_P4WMNm76-Gi8rpG9gnhT8y5EOL7o1J-6ATiCeF-2tKl9c35fBzJaZobhlJhzgOQ=w480-h960-rw"
         },
         {

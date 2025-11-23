@@ -348,7 +348,7 @@ export const mockData = {
           "name": "搜片影视",
           "url": "https://soupian.pro",
           "description": "搜你想看的影片",
-          "icon": "https://www.faviconextractor.com/favicon/soupian.pro"
+          "icon": "https://f.start.me/soupian.pro"
         },
         {
           "id": "site-1763406649180",

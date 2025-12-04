@@ -517,7 +517,7 @@ export const mockData = {
           "id": "site-1763409411266",
           "name": "SteamDB",
           "url": "https://steamdb.info",
-          "description": "查询游戏历史最低价格",
+          "description": "提供所有地区的价格历史记录",
           "icon": "https://f.start.me/steamdb.info"
         },
         {
@@ -573,7 +573,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "East导航",
-  "_fileSha": "87e5641bdb984d8593eee0ffe1ecaaaa534b7fe5",
-  "search": "google"
+  "title": "East导航"
 }

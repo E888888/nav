@@ -353,7 +353,7 @@ export const mockData = {
         {
           "id": "site-1763407432599",
           "name": "泡椒音乐",
-          "url": "https://pjmp3.com",
+          "url": "https://pjmp3.de",
           "description": "免费无损音乐在线播放下载",
           "icon": "https://f.start.me/pjmp3.com"
         },
@@ -573,7 +573,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "East导航",
-  "_fileSha": "65e84415b8e3060661c807581ce3e1286a175b7e",
-  "search": "google"
+  "title": "East导航"
 }

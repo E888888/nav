@@ -358,6 +358,13 @@ export const mockData = {
           "icon": "https://f.start.me/pjmp3.com"
         },
         {
+          "id": "site-1766118103782",
+          "name": "音乐榜",
+          "url": "https://mp3b.com",
+          "description": "免费无损音乐播放下载",
+          "icon": "https://www.mydaohang.com/wp-content/uploads/2023/12/%E9%9F%B3%E4%B9%90-1.png"
+        },
+        {
           "id": "site-1763407479856",
           "name": "网易云音乐解析",
           "url": "https://www.kanxizai.cn/163_music",
@@ -573,7 +580,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "East导航",
-  "_fileSha": "0ffbc1309b96ab36401e0027c07e9290467bcbe4",
-  "search": "google"
+  "title": "East导航"
 }

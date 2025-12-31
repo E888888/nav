@@ -457,20 +457,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/apps.microsoft.com"
         },
         {
-          "id": "site-1763409111131",
-          "name": "App Store",
-          "url": "https://apps.apple.com/zn/app/?l=zh-Hans-CN",
-          "description": "苹果应用商城",
-          "icon": "https://www.apple.com/v/app-store/c/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png"
-        },
-        {
-          "id": "site-1763408692341",
-          "name": "East软仓",
-          "url": "https://E888888.github.io/APP",
-          "description": "免费、小巧、实用的小众软件",
-          "icon": "https://nav-128.pages.dev/logo.png"
-        },
-        {
           "id": "site-1763408836916",
           "name": "极简插件",
           "url": "https://chrome.zzzmh.cn",

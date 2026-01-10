@@ -31,7 +31,7 @@ export const mockData = {
           "id": "site-1768079255525",
           "name": "VirusTotal",
           "url": "https://www.virustotal.com",
-          "description": "可疑文件和URL危险分析",
+          "description": "可疑文件、URL危险分析",
           "icon": "https://f.start.me/www.virustotal.com"
         },
         {

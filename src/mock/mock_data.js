@@ -358,13 +358,6 @@ export const mockData = {
           "icon": "https://f.start.me/pjmp3.com"
         },
         {
-          "id": "site-1763407479856",
-          "name": "网易云音乐解析",
-          "url": "https://www.kanxizai.cn/163_music",
-          "description": "让音乐触手可及",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/bd/f5/c9bdf599-54b2-4bcc-177d-6a7ade269fe0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/400x400ia-75.webp"
-        },
-        {
           "id": "site-1763407729009",
           "name": "短视频解析",
           "url": "https://api.spapi.cn",

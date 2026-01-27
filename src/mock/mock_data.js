@@ -538,7 +538,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "East导航",
-  "_fileSha": "714b0a6c5ce0c73d3034cad709c5cdc7bd6eb025",
-  "search": "google"
+  "title": "East导航"
 }

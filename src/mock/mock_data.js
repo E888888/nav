@@ -522,20 +522,6 @@ export const mockData = {
       "order": 12,
       "sites": [
         {
-          "id": "site-1763409916856",
-          "name": "East主页",
-          "url": "https://o88888.github.io",
-          "description": "",
-          "icon": "https://nav-128.pages.dev/logo.png"
-        },
-        {
-          "id": "site-1763409938901",
-          "name": "East软仓",
-          "url": "https://E888888.github.io/APP",
-          "description": "",
-          "icon": "https://nav-128.pages.dev/logo.png"
-        },
-        {
           "id": "site-1763409958195",
           "name": "East软件库",
           "url": "https://www.ilanzou.com/s/wEEZ2L3i?code",
@@ -552,7 +538,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "East导航",
-  "_fileSha": "a7ef0b64bf74e6c53fe0e8a8e86c4072962ebf97",
-  "search": "google"
+  "title": "East导航"
 }

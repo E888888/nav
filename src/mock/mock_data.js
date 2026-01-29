@@ -315,13 +315,6 @@ export const mockData = {
           "icon": "https://f.start.me/soupian.pro"
         },
         {
-          "id": "site-1763406690952",
-          "name": "电影先生",
-          "url": "https://dyxs39.com",
-          "description": "全网高清影视在线播放",
-          "icon": "https://www.faviconextractor.com/favicon/dyxs39.com"
-        },
-        {
           "id": "site-1763406807709",
           "name": "毒舌电影",
           "url": "https://www.dushe1.app",

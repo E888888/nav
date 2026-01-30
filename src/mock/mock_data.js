@@ -344,6 +344,13 @@ export const mockData = {
           "icon": "https://f.start.me/pjmp3.com"
         },
         {
+          "id": "site-1769807229057",
+          "name": "Wallhaven",
+          "url": "https://wallhaven.cc/",
+          "description": "高质量超清壁纸",
+          "icon": "https://www.faviconextractor.com/favicon/wallhaven.cc"
+        },
+        {
           "id": "site-1763407729009",
           "name": "短视频解析",
           "url": "https://api.spapi.cn",

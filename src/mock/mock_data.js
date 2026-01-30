@@ -386,18 +386,11 @@ export const mockData = {
           "icon": "https://github.com/gantoreno/vscode-vercel/raw/HEAD/.github/vercel.png"
         },
         {
-          "id": "site-1763408352443",
-          "name": "Photokit",
-          "url": "https://photokit.com/?lang=zh",
-          "description": "免费在线图片编辑器",
-          "icon": "https://f.start.me/photokit.com"
-        },
-        {
           "id": "site-1763408423913",
-          "name": "图片放大",
-          "url": "https://cappuccino.moe",
-          "description": "超棒的免费图片放大网站",
-          "icon": "https://f.start.me/cappuccino.moe"
+          "name": "Waifu2x",
+          "url": "https://www.waifu2x.net/",
+          "description": "超棒的免费图片放大工具",
+          "icon": "https://play-lh.googleusercontent.com/dTuDXFVNo2kq7QMUbfRF9gLNCmTNSnLyraP3jVFfIWQ9TGZ-7l06YFN46jE_SJsXygVW=w480-h960-rw"
         },
         {
           "id": "site-1763408465229",

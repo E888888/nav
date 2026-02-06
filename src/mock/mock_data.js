@@ -93,13 +93,6 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
-          "id": "site-1763401097898",
-          "name": "历史价格查询",
-          "url": "https://m.gwdang.com/trendIndex",
-          "description": "识破商家 “ 假 ” 促销！",
-          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/12/ed/cc/12edcc61-ba24-489d-b594-86c527665d37/source/256x256bb.jpg"
-        },
-        {
           "id": "site-1763401200414",
           "name": "京东商城",
           "url": "https://www.jd.com",

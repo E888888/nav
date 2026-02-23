@@ -327,6 +327,13 @@ export const mockData = {
           "url": "https://www.5ggtv.com",
           "description": "电影、电视剧、动漫在线随心看",
           "icon": "https://www.faviconextractor.com/favicon/www.5ggtv.com"
+        },
+        {
+          "id": "site-1771823244211",
+          "name": "银河碟屋",
+          "url": "https://www.yinhebd.com/",
+          "description": "精选蓝光4K电影",
+          "icon": "https://www.faviconextractor.com/favicon/www.yinhebd.com"
         }
       ]
     },

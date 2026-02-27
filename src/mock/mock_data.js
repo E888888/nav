@@ -45,7 +45,7 @@ export const mockData = {
           "id": "site-1763391485087",
           "name": "Wormhole",
           "url": "https://wormhole.app",
-          "description": "文件临时分享；端到端加密",
+          "description": "简单，私密的文件分享",
           "icon": "https://www.faviconextractor.com/favicon/wormhole.app"
         },
         {

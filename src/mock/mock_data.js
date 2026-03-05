@@ -447,7 +447,7 @@ export const mockData = {
           "name": "极简插件",
           "url": "https://chrome.zzzmh.cn",
           "description": "浏览器插件集",
-          "icon": "https://www.faviconextractor.com/favicon/chrome.zzzmh.cn"
+          "icon": "https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg"
         }
       ]
     },

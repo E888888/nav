@@ -400,13 +400,6 @@ export const mockData = {
           "icon": "https://github.com/gantoreno/vscode-vercel/raw/HEAD/.github/vercel.png"
         },
         {
-          "id": "site-1763408423913",
-          "name": "Waifu2x",
-          "url": "https://www.waifu2x.net/",
-          "description": "超棒的免费图片放大工具",
-          "icon": "https://play-lh.googleusercontent.com/dTuDXFVNo2kq7QMUbfRF9gLNCmTNSnLyraP3jVFfIWQ9TGZ-7l06YFN46jE_SJsXygVW=w480-h960-rw"
-        },
-        {
           "id": "site-1763408465229",
           "name": "图片清晰吧",
           "url": "https://www.tpqxb.com",

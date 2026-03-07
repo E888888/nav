@@ -304,7 +304,7 @@ export const mockData = {
           "id": "site-1770957094301",
           "name": "简而易网",
           "url": "https://www.jianeryi.com/videos",
-          "description": "全网VIP电影免费看",
+          "description": "全网VIP电影随心看",
           "icon": "https://www.faviconextractor.com/favicon/www.jianeryi.com"
         },
         {

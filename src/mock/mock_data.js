@@ -463,6 +463,13 @@ export const mockData = {
           "url": "https://flingtrainer.com",
           "description": "免费游戏修改器合集",
           "icon": "https://f.start.me/flingtrainer.com"
+        },
+        {
+          "id": "site-1776234579326",
+          "name": "测试",
+          "url": "https://nav-128.pages.dev/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -490,6 +497,5 @@ export const mockData = {
     }
   ],
   "title": "East导航",
-  "search": "bing",
-  "_fileSha": "93b0f44b193966cf7dfb9a99176475bd49458a09"
+  "search": "bing"
 }

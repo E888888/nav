@@ -236,6 +236,28 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/tempmail100.com"
         }
       ]
+    },
+    {
+      "id": "category-1776231961131",
+      "icon": "🔍",
+      "name": "资源查找",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1776231984360",
+          "name": "千帆搜索",
+          "url": "https://pan.qianfan.app",
+          "description": "聚合网盘搜索引擎",
+          "icon": "https://f.start.me/pan.qianfan.app"
+        },
+        {
+          "id": "site-1776232005311",
+          "name": "猫狸盘搜",
+          "url": "https://www.alipansou.com",
+          "description": "阿里云盘搜索神器",
+          "icon": "https://f.start.me/www.alipansou.com"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",

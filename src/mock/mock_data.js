@@ -463,13 +463,6 @@ export const mockData = {
           "url": "https://flingtrainer.com",
           "description": "免费游戏修改器合集",
           "icon": "https://f.start.me/flingtrainer.com"
-        },
-        {
-          "id": "site-1776234579326",
-          "name": "测试",
-          "url": "https://nav-128.pages.dev/",
-          "description": "",
-          "icon": ""
         }
       ]
     },

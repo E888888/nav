@@ -56,6 +56,28 @@ export const mockData = {
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnlug2AL2iIc36Sx-oaz4Rro008wNwro_Zw&s"
         }
       ]
+    },
+    {
+      "id": "category-1776230716191",
+      "icon": "🏖",
+      "name": "缤纷生活",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1776230756092",
+          "name": "下厨房",
+          "url": "https://www.xiachufang.com",
+          "description": "唯有美食与爱不可辜负",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/10/29/88102906-0f43-1efa-1da0-33a3396b231a/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+          "id": "site-1776230789012",
+          "name": "收起来",
+          "url": "https://pc.shouqilai.cn",
+          "description": "智能囤货管理，高效整理物品",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/17/99/011799a0-fb48-cfd2-5467-dd889874e4d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/400x400ia-75.webp"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",

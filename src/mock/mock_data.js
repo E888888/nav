@@ -465,6 +465,28 @@ export const mockData = {
           "icon": "https://f.start.me/flingtrainer.com"
         }
       ]
+    },
+    {
+      "id": "category-1776232971223",
+      "icon": "🔗",
+      "name": "友情链接",
+      "order": 11,
+      "sites": [
+        {
+          "id": "site-1776232999346",
+          "name": "East软件库",
+          "url": "https://www.ilanzou.com/s/wEEZ2L3i?code",
+          "description": "",
+          "icon": "https://nav-128.pages.dev/logo.png"
+        },
+        {
+          "id": "site-1776233007684",
+          "name": "East媒体库",
+          "url": "https://www.ilanzou.com/s/qh7Nupc5?code",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",

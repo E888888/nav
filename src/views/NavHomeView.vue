@@ -33,7 +33,7 @@
       <!-- Logo区域 -->
       <div class="logo-section">
         <img src="/logo.png" alt="logo" class="logo" />
-        <h1 class="site-title">{{ title || '猫猫导航' }}</h1>
+        <h1 class="site-title">{{ title || 'East导航' }}</h1>
       </div>
 
       <!-- 分类导航 -->
@@ -55,7 +55,7 @@
       <!-- 左侧边栏底部信息 -->
       <div class="sidebar-footer">
         <a
-          href="https://github.com/maodeyu180/mao_nav"
+          href="https://home-n1j.pages.dev"
           target="_blank"
           rel="noopener noreferrer"
           class="github-link"

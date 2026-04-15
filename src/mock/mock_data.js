@@ -78,6 +78,28 @@ export const mockData = {
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/17/99/011799a0-fb48-cfd2-5467-dd889874e4d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/400x400ia-75.webp"
         }
       ]
+    },
+    {
+      "id": "category-1776230851193",
+      "icon": "🛍",
+      "name": "网络购物",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1776230908748",
+          "name": "京东商城",
+          "url": "https://www.jd.com",
+          "description": "购物逛京东，好用又便宜",
+          "icon": "https://play-lh.googleusercontent.com/LWaIZ0sOjW3gUC0yNXIrPGZe9jxNDDpqv9TI-IguAcHvtX30bCTlcNhDaXpu1s5ZBiQ=w480-h960-rw"
+        },
+        {
+          "id": "site-1776231040379",
+          "name": "淘宝",
+          "url": "https://www.taobao.com",
+          "description": "淘宝，淘你喜欢",
+          "icon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxtfv.xuM072.shtTcicejSmzwcAXQyyC1YW1hHr8XFF_t6V0SdPwAOJpZbKrdlthWo8rtfLndPWSt.q.xiBl8q0-&format=source&h=307"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",

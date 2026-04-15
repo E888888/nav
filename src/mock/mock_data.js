@@ -393,6 +393,35 @@ export const mockData = {
           "icon": "https://f.start.me/www.tpqxb.com"
         }
       ]
+    },
+    {
+      "id": "category-1776232658887",
+      "icon": "💻",
+      "name": "软件中心",
+      "order": 9,
+      "sites": [
+        {
+          "id": "site-1776232685396",
+          "name": "数码荔枝",
+          "url": "https://lizhi.shop",
+          "description": "专注分享新鲜优秀的正版软件",
+          "icon": "https://f.start.me/lizhi.shop"
+        },
+        {
+          "id": "site-1776232707934",
+          "name": "Uptodown",
+          "url": "https://cn.uptodown.com",
+          "description": "支持软件的历史版本下载",
+          "icon": "https://f.start.me/cn.uptodown.com"
+        },
+        {
+          "id": "site-1776232746947",
+          "name": "极简插件",
+          "url": "https://chrome.zzzmh.cn",
+          "description": "浏览器插件集",
+          "icon": "https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",

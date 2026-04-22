@@ -471,6 +471,13 @@ export const mockData = {
           "url": "https://www.ilanzou.com/s/qh7Nupc5?code",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1776856892559",
+          "name": "靓号吧",
+          "url": "https://www.lihaoba.com/allcity.php",
+          "description": "手机靓号",
+          "icon": "https://www.faviconextractor.com/favicon/www.lihaoba.com"
         }
       ]
     }

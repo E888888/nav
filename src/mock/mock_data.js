@@ -73,7 +73,7 @@ export const mockData = {
         {
           "id": "site-1776230789012",
           "name": "收起来",
-          "url": "https://pc.shouqilai.cn",
+          "url": "https://shouqilai.cn",
           "description": "智能囤货管理，高效整理物品",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/17/99/011799a0-fb48-cfd2-5467-dd889874e4d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/400x400ia-75.webp"
         }

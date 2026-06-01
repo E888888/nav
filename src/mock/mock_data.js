@@ -75,7 +75,7 @@ export const mockData = {
           "name": "收起来",
           "url": "https://shouqilai.cn",
           "description": "智能囤货管理，高效整理物品",
-          "icon": "https://shouqilai.cn/assets/img/logo.png"
+          "icon": "https://shouqilai.cn/logo.webp"
         }
       ]
     },

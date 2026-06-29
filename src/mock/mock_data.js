@@ -262,7 +262,7 @@ export const mockData = {
     {
       "id": "category-1776232032804",
       "icon": "🎬",
-      "name": "听歌追剧",
+      "name": "影视音乐",
       "order": 7,
       "sites": [
         {

@@ -287,6 +287,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.jianeryi.com"
         },
         {
+          "id": "site-1784679843429",
+          "name": "欧乐影院",
+          "url": "https://www.olevod.com/",
+          "description": "海量高清视频在线看",
+          "icon": "https://www.faviconextractor.com/favicon/www.olevod.com"
+        },
+        {
           "id": "site-1776232167657",
           "name": "搜片影视",
           "url": "https://soupian.pro",

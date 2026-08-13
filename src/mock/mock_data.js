@@ -89,7 +89,7 @@ export const mockData = {
           "id": "site-1776230908748",
           "name": "京东商城",
           "url": "https://www.jd.com",
-          "description": "购物逛京东，好用又便宜",
+          "description": "购物逛京东，好用又实惠",
           "icon": "https://play-lh.googleusercontent.com/LWaIZ0sOjW3gUC0yNXIrPGZe9jxNDDpqv9TI-IguAcHvtX30bCTlcNhDaXpu1s5ZBiQ=w480-h960-rw"
         },
         {

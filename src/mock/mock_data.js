@@ -233,7 +233,7 @@ export const mockData = {
           "name": "AdGuard 临时邮箱",
           "url": "https://adguard.com/zh_cn/adguard-temp-mail/overview.html",
           "description": "免费一次性邮箱",
-          "icon": "https://www.faviconextractor.com/favicon/adguard.com"
+          "icon": "https://cdn.adguardcdn.com/website/adguard.com/tempmail/mail_blocked.svg"
         }
       ]
     },

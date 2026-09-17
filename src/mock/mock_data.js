@@ -399,13 +399,6 @@ export const mockData = {
           "url": "https://cn.uptodown.com",
           "description": "支持软件的历史版本下载",
           "icon": "https://f.start.me/cn.uptodown.com"
-        },
-        {
-          "id": "site-1776232746947",
-          "name": "极简插件",
-          "url": "https://chrome.zzzmh.cn",
-          "description": "浏览器插件集",
-          "icon": "https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg"
         }
       ]
     },

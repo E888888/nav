@@ -309,20 +309,6 @@ export const mockData = {
           "icon": "https://f.start.me/www.tpqxb.com"
         },
         {
-          "id": "site-1776232378654",
-          "name": "短视频解析",
-          "url": "https://api.spapi.cn",
-          "description": "解析各平台短视频，去除水印",
-          "icon": "https://play-lh.googleusercontent.com/N6wi8OUr8wwBtqTFhehXn4l6_u6RUGowwsV9D_dM58yHrz-hSK8ZINmw0by099eWx4M=w480-h960-rw"
-        },
-        {
-          "id": "site-1776232405314",
-          "name": "kuku短视频解析",
-          "url": "https://dy.kukutool.com",
-          "description": "支持130多个平台解析去水印",
-          "icon": "https://www.faviconextractor.com/favicon/dy.kukutool.com"
-        },
-        {
           "id": "site-1776232528395",
           "name": "ICO图标转换",
           "url": "https://ico.pljzy.top",
